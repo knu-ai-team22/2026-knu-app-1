@@ -21,4 +21,5 @@ state = GameState(
     history=[],
 )
 
-graph.invoke(state)
+result = graph.invoke(state)
+print(result)
