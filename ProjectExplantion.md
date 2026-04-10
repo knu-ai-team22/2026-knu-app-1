@@ -24,6 +24,7 @@ Agent는 TRPG 게임의 탐험 이벤트 결과 처리 GM 입니다.
 로 구성되어 있습니다. 
 
 
+<img width="5024" height="6150" alt="순서도" src="https://github.com/user-attachments/assets/dea2e58b-1a96-4a17-844c-07016f3555ad" />
 
 
 
