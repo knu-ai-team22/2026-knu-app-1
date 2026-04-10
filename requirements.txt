@@ -5,5 +5,5 @@ langgraph
 pydantic
 dotenv
 typing
-langchain-openai
-langchain-genai
+openai
+google.generativeai
