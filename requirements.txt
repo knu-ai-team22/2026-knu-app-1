@@ -1,5 +1,9 @@
+langchain
 langchain-core
-langgraph
 langchain-groq
+langchain-google-genai
 
+langgraph
+langchain-openai
 pydantic
+dotenv
